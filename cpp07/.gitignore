@@ -1,0 +1,7 @@
+a.out
+*.o
+*.d
+.vscode/*
+whatever
+iter
+array
